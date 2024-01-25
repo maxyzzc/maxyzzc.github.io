@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #4CAF50;
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+button {
+    background-color: #008CBA;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
+
+input {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.image_1 {
+    width: 200px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.image_2 {
+    width: 350px;
+    margin: 5px;
+    display: inline-block;
+}
